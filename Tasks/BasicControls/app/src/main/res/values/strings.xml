@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicControls</string>
+    <string name="rad1">Meatballs</string>
+    <string name="rad2">Chicken</string>
+    <string name="rad3">Fish</string>
+    <string name="rad4">Steak</string>
+    <string name="rad5">Carrots</string>
+</resources>

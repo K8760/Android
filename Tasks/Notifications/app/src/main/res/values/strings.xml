@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="name">Enter your name:</string>
+    <string name="notif_text">Nice to meet you</string>
+</resources>
